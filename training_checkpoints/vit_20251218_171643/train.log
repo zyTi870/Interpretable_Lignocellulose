@@ -1,0 +1,74 @@
+2025-12-18 17:16:43,523 [INFO] Using device: cuda
+2025-12-18 17:16:43,523 [INFO] Arguments: {'data_root': '/home/xxge/tzy/Pycharmpro/cnn_fiber/TRAIN_DATA_FINAL_256', 'model': 'vit', 'epochs': 100, 'batch_size': 64, 'lr': 0.0001, 'save_dir': './checkpoints_cbam'}
+2025-12-18 17:16:43,523 [INFO] Loading data...
+2025-12-18 17:20:38,126 [INFO] Epoch 1 - Train Loss: 1.0874, Acc: 0.5372 | Val Loss: 0.6057, Acc: 0.7689, F1: 0.7355 | LR: 0.000100
+2025-12-18 17:20:38,230 [INFO] >>> Saved New Best Model (F1: 0.7355)
+2025-12-18 17:23:49,866 [INFO] Epoch 2 - Train Loss: 0.2717, Acc: 0.9087 | Val Loss: 0.3349, Acc: 0.9074, F1: 0.9088 | LR: 0.000100
+2025-12-18 17:23:50,018 [INFO] >>> Saved New Best Model (F1: 0.9088)
+2025-12-18 17:27:04,838 [INFO] Epoch 3 - Train Loss: 0.1120, Acc: 0.9610 | Val Loss: 0.0629, Acc: 0.9801, F1: 0.9807 | LR: 0.000100
+2025-12-18 17:27:05,017 [INFO] >>> Saved New Best Model (F1: 0.9807)
+2025-12-18 17:30:40,199 [INFO] Epoch 4 - Train Loss: 0.0719, Acc: 0.9736 | Val Loss: 0.1016, Acc: 0.9801, F1: 0.9809 | LR: 0.000100
+2025-12-18 17:30:40,376 [INFO] >>> Saved New Best Model (F1: 0.9809)
+2025-12-18 17:33:52,780 [INFO] Epoch 5 - Train Loss: 0.0600, Acc: 0.9794 | Val Loss: 0.2535, Acc: 0.9472, F1: 0.9469 | LR: 0.000099
+2025-12-18 17:37:03,183 [INFO] Epoch 6 - Train Loss: 0.0594, Acc: 0.9792 | Val Loss: 0.0865, Acc: 0.9731, F1: 0.9742 | LR: 0.000099
+2025-12-18 17:40:14,639 [INFO] Epoch 7 - Train Loss: 0.0449, Acc: 0.9840 | Val Loss: 0.1140, Acc: 0.9562, F1: 0.9558 | LR: 0.000099
+2025-12-18 17:43:23,556 [INFO] Epoch 8 - Train Loss: 0.0263, Acc: 0.9908 | Val Loss: 0.1131, Acc: 0.9761, F1: 0.9765 | LR: 0.000098
+2025-12-18 17:46:33,394 [INFO] Epoch 9 - Train Loss: 0.0086, Acc: 0.9970 | Val Loss: 0.1542, Acc: 0.9821, F1: 0.9830 | LR: 0.000098
+2025-12-18 17:46:33,549 [INFO] >>> Saved New Best Model (F1: 0.9830)
+2025-12-18 17:50:04,061 [INFO] Epoch 10 - Train Loss: 0.0090, Acc: 0.9973 | Val Loss: 0.3276, Acc: 0.9173, F1: 0.9080 | LR: 0.000098
+2025-12-18 17:53:14,623 [INFO] Epoch 11 - Train Loss: 0.0453, Acc: 0.9850 | Val Loss: 0.1466, Acc: 0.9711, F1: 0.9725 | LR: 0.000097
+2025-12-18 17:56:25,635 [INFO] Epoch 12 - Train Loss: 0.0090, Acc: 0.9975 | Val Loss: 0.1118, Acc: 0.9701, F1: 0.9698 | LR: 0.000096
+2025-12-18 17:59:37,650 [INFO] Epoch 13 - Train Loss: 0.0083, Acc: 0.9973 | Val Loss: 0.3289, Acc: 0.9373, F1: 0.9380 | LR: 0.000096
+2025-12-18 18:02:56,430 [INFO] Epoch 14 - Train Loss: 0.0301, Acc: 0.9899 | Val Loss: 0.1685, Acc: 0.9731, F1: 0.9741 | LR: 0.000095
+2025-12-18 18:06:26,401 [INFO] Epoch 15 - Train Loss: 0.0068, Acc: 0.9977 | Val Loss: 0.1823, Acc: 0.9731, F1: 0.9741 | LR: 0.000095
+2025-12-18 18:09:54,113 [INFO] Epoch 16 - Train Loss: 0.0336, Acc: 0.9889 | Val Loss: 0.1470, Acc: 0.9731, F1: 0.9739 | LR: 0.000094
+2025-12-18 18:13:09,128 [INFO] Epoch 17 - Train Loss: 0.0022, Acc: 0.9995 | Val Loss: 0.1167, Acc: 0.9831, F1: 0.9841 | LR: 0.000093
+2025-12-18 18:13:09,303 [INFO] >>> Saved New Best Model (F1: 0.9841)
+2025-12-18 18:16:36,624 [INFO] Epoch 18 - Train Loss: 0.0010, Acc: 0.9999 | Val Loss: 0.1168, Acc: 0.9811, F1: 0.9813 | LR: 0.000092
+2025-12-18 18:20:01,175 [INFO] Epoch 19 - Train Loss: 0.0006, Acc: 1.0000 | Val Loss: 0.1169, Acc: 0.9801, F1: 0.9803 | LR: 0.000091
+2025-12-18 18:23:09,744 [INFO] Epoch 20 - Train Loss: 0.0270, Acc: 0.9910 | Val Loss: 0.1119, Acc: 0.9701, F1: 0.9696 | LR: 0.000090
+2025-12-18 18:26:19,951 [INFO] Epoch 21 - Train Loss: 0.0060, Acc: 0.9982 | Val Loss: 0.1245, Acc: 0.9821, F1: 0.9832 | LR: 0.000090
+2025-12-18 18:29:30,204 [INFO] Epoch 22 - Train Loss: 0.0008, Acc: 1.0000 | Val Loss: 0.1027, Acc: 0.9841, F1: 0.9851 | LR: 0.000089
+2025-12-18 18:29:30,391 [INFO] >>> Saved New Best Model (F1: 0.9851)
+2025-12-18 18:32:41,306 [INFO] Epoch 23 - Train Loss: 0.0006, Acc: 1.0000 | Val Loss: 0.1022, Acc: 0.9841, F1: 0.9851 | LR: 0.000088
+2025-12-18 18:35:51,911 [INFO] Epoch 24 - Train Loss: 0.0005, Acc: 1.0000 | Val Loss: 0.0998, Acc: 0.9841, F1: 0.9851 | LR: 0.000086
+2025-12-18 18:39:02,977 [INFO] Epoch 25 - Train Loss: 0.0003, Acc: 1.0000 | Val Loss: 0.1059, Acc: 0.9841, F1: 0.9851 | LR: 0.000085
+2025-12-18 18:42:13,958 [INFO] Epoch 26 - Train Loss: 0.0003, Acc: 1.0000 | Val Loss: 0.1053, Acc: 0.9841, F1: 0.9851 | LR: 0.000084
+2025-12-18 18:45:42,164 [INFO] Epoch 27 - Train Loss: 0.0003, Acc: 1.0000 | Val Loss: 0.1097, Acc: 0.9841, F1: 0.9851 | LR: 0.000083
+2025-12-18 18:48:53,766 [INFO] Epoch 28 - Train Loss: 0.0002, Acc: 1.0000 | Val Loss: 0.1107, Acc: 0.9841, F1: 0.9851 | LR: 0.000082
+2025-12-18 18:52:16,505 [INFO] Epoch 29 - Train Loss: 0.0002, Acc: 1.0000 | Val Loss: 0.1127, Acc: 0.9841, F1: 0.9851 | LR: 0.000081
+2025-12-18 18:55:44,505 [INFO] Epoch 30 - Train Loss: 0.0002, Acc: 1.0000 | Val Loss: 0.1135, Acc: 0.9841, F1: 0.9851 | LR: 0.000079
+2025-12-18 18:59:21,811 [INFO] Epoch 31 - Train Loss: 0.0002, Acc: 1.0000 | Val Loss: 0.1153, Acc: 0.9841, F1: 0.9851 | LR: 0.000078
+2025-12-18 19:02:41,584 [INFO] Epoch 32 - Train Loss: 0.0002, Acc: 1.0000 | Val Loss: 0.1166, Acc: 0.9841, F1: 0.9851 | LR: 0.000077
+2025-12-18 19:05:50,758 [INFO] Epoch 33 - Train Loss: 0.0002, Acc: 1.0000 | Val Loss: 0.1178, Acc: 0.9841, F1: 0.9851 | LR: 0.000075
+2025-12-18 19:09:19,879 [INFO] Epoch 34 - Train Loss: 0.0002, Acc: 1.0000 | Val Loss: 0.1191, Acc: 0.9841, F1: 0.9851 | LR: 0.000074
+2025-12-18 19:12:44,739 [INFO] Epoch 35 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1201, Acc: 0.9841, F1: 0.9851 | LR: 0.000073
+2025-12-18 19:16:04,172 [INFO] Epoch 36 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1214, Acc: 0.9841, F1: 0.9851 | LR: 0.000071
+2025-12-18 19:19:31,260 [INFO] Epoch 37 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1225, Acc: 0.9841, F1: 0.9851 | LR: 0.000070
+2025-12-18 19:22:42,842 [INFO] Epoch 38 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1230, Acc: 0.9841, F1: 0.9851 | LR: 0.000068
+2025-12-18 19:26:09,665 [INFO] Epoch 39 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1238, Acc: 0.9841, F1: 0.9851 | LR: 0.000067
+2025-12-18 19:29:22,038 [INFO] Epoch 40 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1244, Acc: 0.9841, F1: 0.9851 | LR: 0.000065
+2025-12-18 19:32:35,614 [INFO] Epoch 41 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1254, Acc: 0.9841, F1: 0.9851 | LR: 0.000064
+2025-12-18 19:35:49,141 [INFO] Epoch 42 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1263, Acc: 0.9841, F1: 0.9851 | LR: 0.000062
+2025-12-18 19:39:17,038 [INFO] Epoch 43 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1270, Acc: 0.9841, F1: 0.9851 | LR: 0.000061
+2025-12-18 19:42:28,836 [INFO] Epoch 44 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1278, Acc: 0.9841, F1: 0.9851 | LR: 0.000059
+2025-12-18 19:45:57,772 [INFO] Epoch 45 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1286, Acc: 0.9841, F1: 0.9851 | LR: 0.000058
+2025-12-18 19:49:11,856 [INFO] Epoch 46 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1294, Acc: 0.9841, F1: 0.9851 | LR: 0.000056
+2025-12-18 19:52:45,290 [INFO] Epoch 47 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1307, Acc: 0.9841, F1: 0.9851 | LR: 0.000055
+2025-12-18 19:55:55,703 [INFO] Epoch 48 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1318, Acc: 0.9841, F1: 0.9851 | LR: 0.000053
+2025-12-18 19:59:18,987 [INFO] Epoch 49 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1319, Acc: 0.9841, F1: 0.9851 | LR: 0.000052
+2025-12-18 20:02:38,748 [INFO] Epoch 50 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1329, Acc: 0.9841, F1: 0.9851 | LR: 0.000050
+2025-12-18 20:05:52,319 [INFO] Epoch 51 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1337, Acc: 0.9841, F1: 0.9851 | LR: 0.000048
+2025-12-18 20:09:19,199 [INFO] Epoch 52 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1343, Acc: 0.9841, F1: 0.9851 | LR: 0.000047
+2025-12-18 20:12:48,921 [INFO] Epoch 53 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1348, Acc: 0.9841, F1: 0.9851 | LR: 0.000045
+2025-12-18 20:16:16,675 [INFO] Epoch 54 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1355, Acc: 0.9841, F1: 0.9851 | LR: 0.000044
+2025-12-18 20:19:42,835 [INFO] Epoch 55 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1364, Acc: 0.9841, F1: 0.9851 | LR: 0.000042
+2025-12-18 20:22:52,652 [INFO] Epoch 56 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1364, Acc: 0.9841, F1: 0.9851 | LR: 0.000041
+2025-12-18 20:26:31,088 [INFO] Epoch 57 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1376, Acc: 0.9841, F1: 0.9851 | LR: 0.000039
+2025-12-18 20:29:41,477 [INFO] Epoch 58 - Train Loss: 0.0001, Acc: 1.0000 | Val Loss: 0.1384, Acc: 0.9841, F1: 0.9851 | LR: 0.000038
+2025-12-18 20:33:10,876 [INFO] Epoch 59 - Train Loss: 0.0000, Acc: 1.0000 | Val Loss: 0.1393, Acc: 0.9841, F1: 0.9851 | LR: 0.000036
+2025-12-18 20:36:37,028 [INFO] Epoch 60 - Train Loss: 0.0000, Acc: 1.0000 | Val Loss: 0.1397, Acc: 0.9841, F1: 0.9851 | LR: 0.000035
+2025-12-18 20:40:06,840 [INFO] Epoch 61 - Train Loss: 0.0000, Acc: 1.0000 | Val Loss: 0.1404, Acc: 0.9841, F1: 0.9851 | LR: 0.000033
+2025-12-18 20:43:21,972 [INFO] Epoch 62 - Train Loss: 0.0000, Acc: 1.0000 | Val Loss: 0.1411, Acc: 0.9841, F1: 0.9851 | LR: 0.000032
+2025-12-18 20:46:43,965 [INFO] Epoch 63 - Train Loss: 0.0000, Acc: 1.0000 | Val Loss: 0.1413, Acc: 0.9841, F1: 0.9851 | LR: 0.000030
+2025-12-18 20:50:03,837 [INFO] Epoch 64 - Train Loss: 0.0000, Acc: 1.0000 | Val Loss: 0.1420, Acc: 0.9841, F1: 0.9851 | LR: 0.000029
