@@ -9,6 +9,7 @@
 </p>
 
 This repository contains the official implementation of the study: **"Interpretable 3D deep learning identifies and reveals the spatial microstructure of multi-enzyme lignocellulose deconstruction"**. 
+Tie, Z., Meng, X., Chen, C., Xu, C., & Zuo, S. (2026). Interpretable three-dimensional deep learning identifies and reveals the spatial Microstructure of multi-enzyme degradation of lignocellulose. Bioresource Technology, 454(134730), 134730. doi:10.1016/j.biortech.2026.134730
 
 ## 📖 Overview
 
